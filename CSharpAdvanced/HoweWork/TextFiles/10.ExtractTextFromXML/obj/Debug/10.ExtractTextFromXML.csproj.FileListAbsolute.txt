@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.pdb

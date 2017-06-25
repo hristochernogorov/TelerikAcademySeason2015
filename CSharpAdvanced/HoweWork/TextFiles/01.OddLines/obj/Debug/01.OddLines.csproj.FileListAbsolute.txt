@@ -1,0 +1,6 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\bin\Debug\01.OddLines.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\bin\Debug\01.OddLines.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\bin\Debug\01.OddLines.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\obj\Debug\01.OddLines.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\01.OddLines\obj\Debug\01.OddLines.pdb

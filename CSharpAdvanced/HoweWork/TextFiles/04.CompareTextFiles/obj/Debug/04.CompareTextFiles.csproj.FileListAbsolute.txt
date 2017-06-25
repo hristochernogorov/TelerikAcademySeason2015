@@ -1,0 +1,6 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

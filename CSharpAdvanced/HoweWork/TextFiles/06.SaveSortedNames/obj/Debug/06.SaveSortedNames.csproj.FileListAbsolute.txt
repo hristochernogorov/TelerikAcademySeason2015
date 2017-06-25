@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\06.SaveSortedNames\bin\Debug\06.SaveSortedNames.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\06.SaveSortedNames\obj\Debug\06.SaveSortedNames.pdb

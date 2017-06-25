@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\05.MaximalAreaSum\bin\Debug\05.MaximalAreaSum.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\05.MaximalAreaSum\obj\Debug\05.MaximalAreaSum.pdb

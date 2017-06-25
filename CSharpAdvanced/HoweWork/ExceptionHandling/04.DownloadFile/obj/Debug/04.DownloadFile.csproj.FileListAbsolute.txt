@@ -1,0 +1,5 @@
+F:\C#2\C#2_HomeWork\CSharp_Part2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe.config
+F:\C#2\C#2_HomeWork\CSharp_Part2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+F:\C#2\C#2_HomeWork\CSharp_Part2\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+F:\C#2\C#2_HomeWork\CSharp_Part2\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+F:\C#2\C#2_HomeWork\CSharp_Part2\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

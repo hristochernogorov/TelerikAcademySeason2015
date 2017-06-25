@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\08.ReplaceWholeWord\bin\Debug\08.ReplaceWholeWord.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\08.ReplaceWholeWord\obj\Debug\08.ReplaceWholeWord.pdb

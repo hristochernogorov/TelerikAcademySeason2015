@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.pdb

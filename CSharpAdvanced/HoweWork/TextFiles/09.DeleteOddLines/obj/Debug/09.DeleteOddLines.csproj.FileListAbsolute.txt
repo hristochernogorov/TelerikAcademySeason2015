@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb

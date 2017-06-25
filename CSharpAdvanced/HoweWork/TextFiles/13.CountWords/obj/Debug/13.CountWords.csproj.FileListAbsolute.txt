@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\13.CountWords\bin\Debug\13.CountWords.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\13.CountWords\obj\Debug\13.CountWords.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\13.CountWords\obj\Debug\13.CountWords.pdb

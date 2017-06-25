@@ -1,0 +1,5 @@
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.pdb
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.exe
+D:\TELERIK\C#2\CSharp_Part2\TextFiles\12.RemoveWords\obj\Debug\12.RemoveWords.pdb
