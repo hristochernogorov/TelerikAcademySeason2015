@@ -1,0 +1,6 @@
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\bin\Debug\CatSystem.exe.config
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\bin\Debug\CatSystem.exe
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\bin\Debug\CatSystem.pdb
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\obj\Debug\CatSystem.csprojResolveAssemblyReference.cache
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\obj\Debug\CatSystem.exe
+D:\TELERIK\TelerikAcademyFirstYear\OOP\HomeWork\DefiningClassesPart2\CatSystem\obj\Debug\CatSystem.pdb
