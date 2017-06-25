@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Loops\MinMaxSumAndAverageNumbers\bin\Debug\MinMaxSumAndAverageNumbers.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Loops\MinMaxSumAndAverageNumbers\bin\Debug\MinMaxSumAndAverageNumbers.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\MinMaxSumAndAverageNumbers\bin\Debug\MinMaxSumAndAverageNumbers.pdb
+D:\TELERIK\C#1\CSharp_Part1\Loops\MinMaxSumAndAverageNumbers\obj\Debug\MinMaxSumAndAverageNumbers.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\MinMaxSumAndAverageNumbers\obj\Debug\MinMaxSumAndAverageNumbers.pdb

@@ -1,0 +1,6 @@
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

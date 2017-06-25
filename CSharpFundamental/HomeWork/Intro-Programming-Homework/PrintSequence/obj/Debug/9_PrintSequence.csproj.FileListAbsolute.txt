@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

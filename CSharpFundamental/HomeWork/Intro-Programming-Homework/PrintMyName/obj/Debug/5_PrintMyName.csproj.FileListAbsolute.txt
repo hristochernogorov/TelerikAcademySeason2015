@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,43 @@
+Problem: 12
+
+1. SharpDevelop
+SharpDevelop (also styled as #develop) is a free and open source integrated development environment.
+IDE for the .NET Framework. Mono and Glade# platforms.
+It supports development in C#,Visual Basic .NET,Boo, F#,IronPython and IronRuby programming languages.
+It was designed as a free and lightweight alternative to Microsoft Visual Studio 
+and contains an equivalent feature for almost every essential Visual Studio Express feature
+including features for project management, code editing, application compiling and debugging.
+
+2. MonoDevelop
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows.
+Its primary focus is development of projects that use Mono and .NET frameworks.
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio
+such as automatic code completion, source control, a graphical user interface (GUI) and Web designer.
+MonoDevelop integrates a Gtk# GUI designer called Stetic.It supports Boo, C, C++, C#, CIL, D, F#, Java,
+Oxygene, Python, Vala, and Visual Basic.NET.
+
+3. Visual Studio
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
+It is used to develop computer programs for Microsoft Windows, as well as web sites,
+web applications and web services. Visual Studio uses Microsoft software development platforms. 
+Such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight.
+It can produce both native code and managed code.
+
+4. Eclipse
+In computer programming, Eclipse is an integrated development environment (IDE).
+It contains a base workspace and an extensible plug-in system for customizing the environment.
+Written mostly in Java, Eclipse can be used to develop applications. 
+By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages:
+Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R,
+Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+It can also be used to develop packages for the software Mathematica. 
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala,
+Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+5. Xcode
+Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple.
+For developing software for OS X and iOS.First released in 2003, the latest stable release is version 6.1 and is available via the Mac App Store.
+Free of charge for Mac OS X Lion, OS X Mountain Lion, OS X Mavericks and OS X Yosemite users.
+Registered developers can download preview releases and previous versions of the suite through the Apple Developer website.
+However, Apple recently made a beta version of version 6.x of the software available to those of the public with Apple Developer accounts.
+

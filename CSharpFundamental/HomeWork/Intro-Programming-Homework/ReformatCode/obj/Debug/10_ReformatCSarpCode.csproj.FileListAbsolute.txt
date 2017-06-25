@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb

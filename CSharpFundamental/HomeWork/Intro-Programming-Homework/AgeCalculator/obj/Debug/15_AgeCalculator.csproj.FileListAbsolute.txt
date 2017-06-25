@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\AgeCalculator\bin\Debug\AgeCalculator.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\AgeCalculator\bin\Debug\AgeCalculator.pdb
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\AgeCalculator\obj\Debug\AgeCalculator.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\AgeCalculator\obj\Debug\AgeCalculator.pdb

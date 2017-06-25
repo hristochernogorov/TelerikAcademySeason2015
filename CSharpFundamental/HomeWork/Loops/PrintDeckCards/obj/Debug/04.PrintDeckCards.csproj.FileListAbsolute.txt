@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Loops\PrintDeckCards\bin\Debug\PrintDeckCards.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Loops\PrintDeckCards\bin\Debug\PrintDeckCards.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\PrintDeckCards\bin\Debug\PrintDeckCards.pdb
+D:\TELERIK\C#1\CSharp_Part1\Loops\PrintDeckCards\obj\Debug\PrintDeckCards.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\PrintDeckCards\obj\Debug\PrintDeckCards.pdb

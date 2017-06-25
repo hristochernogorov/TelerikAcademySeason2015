@@ -1,0 +1,18 @@
+Problem: 13
+
+1.  .NetFramework
+Programs written for .NET Framework execute in a software environment (as contrasted to hardware environment), known as Common Language Runtime (CLR)
+an application virtual machine that provides services such as security, memory management, and exception handling. 
+FCL and CLR together constitute .NET Framework.
+Microsoft started development of .NET Framework in the late 1990s, originally under the name of Next Generation Windows Services (NGWS).
+By late 2000, the first beta versions of .NET 1.0 were released.Version 3.0 of .NET Framework is included with Windows Server 2008 and Windows Vista.
+Version 4.5 is included with Windows 8 and Windows Server 2012. Windows XP was delivered without any versions of .NET Framework.
+.NET Framework family also includes two versions for mobile or embedded device use.A reduced version of the framework, .NET Compact Framework 
+is available on Windows CE platforms, including Windows Mobile devices such as smartphones.
+
+2.  CSharp
+C# (pronounced as see sharp) is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic,
+object-oriented (class-based), and component-oriented programming disciplines.It was developed by Microsoft within its .NET
+initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006).
+C# is one of the programming languages designed for the Common Language Infrastructure.C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+Its development team is led by Anders Hejlsberg.The most recent version is C# 5.0, which was released on August 15, 2012.

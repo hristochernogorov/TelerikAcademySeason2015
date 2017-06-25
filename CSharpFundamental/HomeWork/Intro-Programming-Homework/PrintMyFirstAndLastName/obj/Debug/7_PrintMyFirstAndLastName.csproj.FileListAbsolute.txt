@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.pdb
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.exe
+D:\TELERIK\C#1\CSharp_Part1\Intro-Programming-Homework\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.pdb

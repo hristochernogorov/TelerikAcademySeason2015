@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
+D:\TELERIK\C#1\CSharp_Part1\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

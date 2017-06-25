@@ -1,0 +1,5 @@
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersNotDivisibleByTreeAndSeven\bin\Debug\NumbersNotDivisibleByTreeAndSeven.exe.config
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersNotDivisibleByTreeAndSeven\bin\Debug\NumbersNotDivisibleByTreeAndSeven.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersNotDivisibleByTreeAndSeven\bin\Debug\NumbersNotDivisibleByTreeAndSeven.pdb
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersNotDivisibleByTreeAndSeven\obj\Debug\NumbersNotDivisibleByTreeAndSeven.exe
+D:\TELERIK\C#1\CSharp_Part1\Loops\NumbersNotDivisibleByTreeAndSeven\obj\Debug\NumbersNotDivisibleByTreeAndSeven.pdb
